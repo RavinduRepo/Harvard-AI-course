@@ -1,0 +1,4 @@
+pillow
+
+
+command:    python maze.py maze2.txt
